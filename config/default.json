@@ -1,6 +1,0 @@
-{
-    "mongoURI": "mongodb+srv://alex:59ozzIOQ3qMhTGnI@qureddevconnector-c4qfs.mongodb.net/test?retryWrites=true&w=majority",
-    "useUnifiedTopology": true,
-    "jwtSecret": "likeworkinghome",
-    "test": "test"
-}
